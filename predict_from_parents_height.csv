@@ -1,0 +1,25 @@
+age,gender,Fathers height,mothers height
+1,male,150,130
+2,female,155,135
+3,male,156,140
+4,female,157,142
+5,gender,160,145
+6,male,162.2,149.5
+7,female,164.4,153.2
+8,male,166.6,156.9
+9,female,168.8,160.6
+10,gender,171,164.3
+11,male,173.2,168
+12,female,175.4,171.7
+13,male,177.6,175.4
+14,female,179.8,179.1
+15,gender,182,182.8
+16,male,184.2,186.5
+17,female,186.4,190.2
+18,male,188.6,193.9
+19,female,190.8,197.6
+20,gender,193,201.3
+21,male,195.2,205
+22,female,197.4,208.7
+23,male,199.6,212.4
+24,female,201.8,216.1
